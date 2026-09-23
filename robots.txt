@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boslifejc.com/sitemap.xml

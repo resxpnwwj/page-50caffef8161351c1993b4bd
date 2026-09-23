@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e4c662f54f27e9ef4996baba",
+  "owner": "resxpnwwj",
+  "repo": "page-50caffef8161351c1993b4bd",
+  "title": "发现新世界",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "50caffef8161351c1993b4bd",
+      "a": "发现新世界",
+      "b": "2027最新官网",
+      "entity": "发现新世界",
+      "brand": "发现新世界",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4f7ea8312e587c759b7608efc33b9e1e16ca5907ef68bc5ba6897f6541ed7dda",
+      "content": {
+        "primary_entity": "发现新世界",
+        "keyword1": "发现新世界",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，专注为中文用户提供海外加速订阅，覆盖基础版、旗舰版和团队版三档套餐，月付或年付灵活选择，按设备数量与流量需求匹配方案。",
+          "AI_HERO_SUBTITLE": "多端订阅，随心切换",
+          "AI_HERO_INTRO": "发现新世界提供海外加速订阅服务，按流量、设备数和线路需求划分三档套餐，适配手机、电脑与路由器等多种客户端，帮助用户按自己的使用习惯选择合适方案。",
+          "AI_VISUAL_TITLE": "发现新世界加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "设备数与流量灵活匹配",
+          "AI_HIGHLIGHT_3": "多客户端订阅配置",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "根据日常设备数量、流量消耗和线路偏好，快速定位适合的订阅档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按常用设备数量选择即可。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB，重度使用建议旗舰版及以上。",
+          "AI_FEATURE_TITLE_3": "按周期享优惠",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按月付费与按年付费，年付价格更划算，如旗舰版年付仅需 ¥350/年。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同订阅客户端，按设备类型选择并导入订阅链接即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人或双人轻度使用，旗舰版增加流量与设备数并优化游戏线路，团队版面向多设备、高流量场景。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "按设备数量与每月流量需求，在基础版、旗舰版、团队版中选择适合的一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端支持情况，再决定安装方式。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅链接后，依照对应客户端的使用文档导入并更新节点配置。",
+          "AI_CLOSING_TITLE": "开启新体验",
+          "AI_CLOSING_TEXT": "选好套餐并完成客户端配置，即可按自己的节奏使用加速服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。可在套餐说明中查看并选择匹配自己设备数量的方案。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。按日常使用量选择，避免流量不够或浪费。",
+          "AI_FAQ_ANSWER_3": "可以。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，比月付更省。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线游戏加速优化和全节点原生流媒体解锁，适合对延迟和内容解锁有要求的场景。",
+          "AI_FAQ_ANSWER_5": "在对应客户端中导入订阅链接即可，具体步骤可查看客户端文档或工单咨询。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐的流量差别大吗？",
+          "AI_FAQ_QUESTION_3": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_4": "旗舰版适合什么场景？",
+          "AI_FAQ_QUESTION_5": "如何配置订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "boslifejc.com",
+    "host": "boslifejc.com"
+  },
+  "file_hashes": {
+    "index.html": "1ff468bffaa9947dc58c5a87e0721a677bb21e638cc77857b1edc28f0267c25f",
+    "sitemap.xml": "7e16877da36155fe18f97a1293660b0ded4ab18f65b0093e7a9610b1aa5710b3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "639ccc8fdd0d5f511bc837d6ab1a0274b78013ad2824baf090a33779e47be9c6",
+    "robots.txt": "f70c9c9012352aec873e8b1408befb7adf1e1fc5bfe5ecdecd7954aae46c0b48",
+    "172a9c71a5017581f6987ff295152fce.txt": "5c6e2a9791e9ab293107541c4b614756bf558a715c031179b68d7ac146183ea7"
+  },
+  "revision": "5ec34ad8f89d10bb7198a8d2b3a4b14b5e4e612b00f72326745e1648da9da889"
+}
